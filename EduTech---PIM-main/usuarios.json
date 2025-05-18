@@ -1,0 +1,217 @@
+{
+    "Usuarios": [
+        {
+            "nome": "Aluno Rei",
+            "email": "reinaldobarbosa034@gmail.com",
+            "senha": "4b4242beda77d622bc11d4e1a2bf5181bd8f66ba6d9ac6eb7f79955d91ac201a",
+            "Progresso": 0,
+            "Pontuacao": 0,
+            "Rank": "Bronze",
+            "acessos": 3,
+            "tempo_total_min": 0,
+            "status": "aluno",
+            "materias": {
+                "234234": {
+                    "niveis_acessados": {
+                        "Iniciante": {
+                            "desbloqueado": true
+                        },
+                        "Intermediario": {
+                            "desbloqueado": false
+                        },
+                        "Avancado": {
+                            "desbloqueado": false
+                        }
+                    }
+                }
+            },
+            "ultimo_login": 1747588396.7669833
+        },
+        {
+            "nome": "Professor Rei",
+            "email": "reinaldobvidaloka@gmail.com",
+            "senha": "4b4242beda77d622bc11d4e1a2bf5181bd8f66ba6d9ac6eb7f79955d91ac201a",
+            "Progresso": 0,
+            "Pontuacao": 0,
+            "Rank": "Bronze",
+            "acessos": 6,
+            "tempo_total_min": 0,
+            "status": "professor",
+            "materias": {},
+            "ultimo_login": 1747588364.0086353
+        },
+        {
+            "nome": "Paulo",
+            "email": "asensia6258@uorak.com",
+            "senha": "32077739e6f7fe4efc0fbd4d6aadd7ece9ed96569e63f309fa7148cf20c3078d",
+            "Progresso": 0,
+            "Pontuacao": 0,
+            "Rank": "Bronze",
+            "acessos": 2,
+            "tempo_total_min": 6,
+            "status": "professor",
+            "materias": {
+                "2222": {
+                    "niveis_acessados": {
+                        "Iniciante": {
+                            "desbloqueado": true
+                        },
+                        "Intermediario": {
+                            "desbloqueado": true
+                        },
+                        "Avancado": {
+                            "desbloqueado": false
+                        }
+                    }
+                },
+                "Matematica": {
+                    "niveis_acessados": {
+                        "Iniciante": {
+                            "desbloqueado": true
+                        },
+                        "Intermediario": {
+                            "desbloqueado": false
+                        },
+                        "Avancado": {
+                            "desbloqueado": false
+                        }
+                    }
+                }
+            },
+            "ultimo_login": 1747590274.7162364
+        },
+        {
+            "nome": "paulo",
+            "email": "chamaida3809@uorak.com",
+            "senha": "32077739e6f7fe4efc0fbd4d6aadd7ece9ed96569e63f309fa7148cf20c3078d",
+            "Progresso": 0,
+            "Pontuacao": 0,
+            "Rank": "Bronze",
+            "acessos": 1,
+            "tempo_total_min": 0,
+            "status": "aluno",
+            "materias": {
+                "Matematica": {
+                    "niveis_acessados": {
+                        "Iniciante": {
+                            "desbloqueado": true
+                        },
+                        "Intermediario": {
+                            "desbloqueado": false
+                        },
+                        "Avancado": {
+                            "desbloqueado": false
+                        }
+                    }
+                }
+            },
+            "ultimo_login": 1747590534.3569312
+        },
+        {
+            "nome": "lucas",
+            "email": "catiana1362@uorak.com",
+            "senha": "32077739e6f7fe4efc0fbd4d6aadd7ece9ed96569e63f309fa7148cf20c3078d",
+            "Progresso": 0,
+            "Pontuacao": 0,
+            "Rank": "Bronze",
+            "acessos": 1,
+            "tempo_total_min": 0,
+            "status": "aluno",
+            "materias": {
+                "2222": {
+                    "niveis_acessados": {
+                        "Iniciante": {
+                            "desbloqueado": true
+                        },
+                        "Intermediario": {
+                            "desbloqueado": false
+                        },
+                        "Avancado": {
+                            "desbloqueado": false
+                        }
+                    }
+                }
+            },
+            "ultimo_login": 1747591059.363643
+        },
+        {
+            "nome": "Gabreil",
+            "email": "parascovia1754@uorak.com",
+            "senha": "32077739e6f7fe4efc0fbd4d6aadd7ece9ed96569e63f309fa7148cf20c3078d",
+            "Progresso": 0,
+            "Pontuacao": 0,
+            "Rank": "Bronze",
+            "acessos": 0,
+            "tempo_total_min": 0,
+            "status": "professor",
+            "materias": {}
+        },
+        {
+            "nome": "Laine",
+            "email": "laine7644@uorak.com",
+            "senha": "32077739e6f7fe4efc0fbd4d6aadd7ece9ed96569e63f309fa7148cf20c3078d",
+            "Progresso": 0,
+            "Pontuacao": 0,
+            "Rank": "Bronze",
+            "acessos": 1,
+            "tempo_total_min": 36,
+            "status": "professor",
+            "materias": {
+                "Estruturas de Dados em Python": {
+                    "niveis_acessados": {
+                        "Iniciante": {
+                            "desbloqueado": true
+                        },
+                        "Intermediario": {
+                            "desbloqueado": false
+                        },
+                        "Avancado": {
+                            "desbloqueado": false
+                        }
+                    }
+                }
+            },
+            "ultimo_login": 1747591447.041697
+        },
+        {
+            "nome": "bolsonaro",
+            "email": "vlada3948@uorak.com",
+            "senha": "32077739e6f7fe4efc0fbd4d6aadd7ece9ed96569e63f309fa7148cf20c3078d",
+            "Progresso": 0,
+            "Pontuacao": 0,
+            "Rank": "Bronze",
+            "acessos": 2,
+            "tempo_total_min": 0,
+            "status": "aluno",
+            "materias": {
+                "Algoritmos de Ordenação": {
+                    "niveis_acessados": {
+                        "Iniciante": {
+                            "desbloqueado": true
+                        },
+                        "Intermediario": {
+                            "desbloqueado": false
+                        },
+                        "Avancado": {
+                            "desbloqueado": false
+                        }
+                    }
+                }
+            },
+            "ultimo_login": 1747593889.2853804
+        },
+        {
+            "nome": "edie37@uorak.com",
+            "email": "edie37@uorak.com",
+            "senha": "32077739e6f7fe4efc0fbd4d6aadd7ece9ed96569e63f309fa7148cf20c3078d",
+            "Progresso": 0,
+            "Pontuacao": 0,
+            "Rank": "Bronze",
+            "acessos": 1,
+            "tempo_total_min": 0,
+            "status": "professor",
+            "materias": {},
+            "ultimo_login": 1747594112.0132198
+        }
+    ]
+}
