@@ -104,8 +104,3 @@ Este projeto está licenciado sob a **MIT License** – veja o arquivo [LICENSE]
 
 ---
 
-## 👨‍💻 Autor
-
-**Reinaldo Barbosa**  
-Estudante de Análise e Desenvolvimento de Sistemas (UNIP)  
-Apaixonado por tecnologia, educação e soluções inclusivas.
